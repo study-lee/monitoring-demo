@@ -95,6 +95,11 @@ add your user to the vboxsf group:
 `sudo usermod -aG vboxsf $USER`
 Then log out and log back in
 
+## Credits
+
+- Node Exporter, Prometheus, Grafana are official images from [Prometheus Community](https://prometheus.io/) and [Grafana Labs](https://grafana.com).
+- Dashboard ID 1860 is provided by the Prometheus community.
+
 ## License
 MIT - free to use and modify
 
